@@ -1,0 +1,2 @@
+# backend_training_sample
+バックエンド講習のためのサンプルプログラム
